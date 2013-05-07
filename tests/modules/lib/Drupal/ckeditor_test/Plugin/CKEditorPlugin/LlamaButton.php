@@ -2,10 +2,10 @@
 
 /**
  * @file
- * Contains \Drupal\ckeditor_test\Plugin\ckeditor\plugin\LlamaButton.
+ * Contains \Drupal\ckeditor_test\Plugin\CKEditorPlugin\LlamaButton.
  */
 
-namespace Drupal\ckeditor_test\Plugin\ckeditor\plugin;
+namespace Drupal\ckeditor_test\Plugin\CKEditorPlugin;
 
 use Drupal\ckeditor\CKEditorPluginButtonsInterface;
 use Drupal\Component\Plugin\PluginBase;

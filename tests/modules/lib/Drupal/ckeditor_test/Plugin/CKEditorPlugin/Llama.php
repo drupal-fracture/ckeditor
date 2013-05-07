@@ -2,10 +2,10 @@
 
 /**
  * @file
- * Contains \Drupal\ckeditor_test\Plugin\ckeditor\plugin\Llama.
+ * Contains \Drupal\ckeditor_test\Plugin\CKEditorPlugin\Llama.
  */
 
-namespace Drupal\ckeditor_test\Plugin\ckeditor\plugin;
+namespace Drupal\ckeditor_test\Plugin\CKEditorPlugin;
 
 use Drupal\ckeditor\CKEditorPluginInterface;
 use Drupal\Component\Plugin\PluginBase;

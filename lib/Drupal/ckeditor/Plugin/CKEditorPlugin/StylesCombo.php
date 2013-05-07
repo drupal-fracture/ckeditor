@@ -2,10 +2,10 @@
 
 /**
  * @file
- * Contains \Drupal\ckeditor\Plugin\ckeditor\plugin\StylesCombo.
+ * Contains \Drupal\ckeditor\Plugin\CKEditorPlugin\StylesCombo.
  */
 
-namespace Drupal\ckeditor\Plugin\ckeditor\plugin;
+namespace Drupal\ckeditor\Plugin\CKEditorPlugin;
 
 use Drupal\ckeditor\CKEditorPluginBase;
 use Drupal\ckeditor\CKEditorPluginConfigurableInterface;

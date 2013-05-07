@@ -2,10 +2,10 @@
 
 /**
  * @file
- * Contains \Drupal\ckeditor\Plugin\ckeditor\plugin\Internal.
+ * Contains \Drupal\ckeditor\Plugin\CKEditorPlugin\Internal.
  */
 
-namespace Drupal\ckeditor\Plugin\ckeditor\plugin;
+namespace Drupal\ckeditor\Plugin\CKEditorPlugin;
 
 use Drupal\ckeditor\CKEditorPluginBase;
 use Drupal\Component\Utility\NestedArray;
